@@ -6,6 +6,9 @@ Whether you're a horror enthusiast or music creator, Sprunki Retake offers endle
 # How to Master Sprunki Retake
 Play Sprunki Retake game.
 https://sprunkiretake.one
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/M58WkFNWd2c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhKIF4oZTAP&rs=AOn4CLAL3Lo-IjS8kVHCBqh4nlCJPFzHSg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/M58WkFNWd2c?si=tWjSbL-qwQlmrEz6))
+
 Begin with basic horror elements: Choose from our selection of base beats and ambient sounds
 Layer your creation: Add character voices, effects, and instrumental elements
 Discover combinations: Experiment with different character combinations to unlock special animations and bonus tracks
