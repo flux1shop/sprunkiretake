@@ -7,7 +7,10 @@ Whether you're a horror enthusiast or music creator, Sprunki Retake offers endle
 Play Sprunki Retake game.
 https://sprunkiretake.one
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/M58WkFNWd2c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhKIF4oZTAP&rs=AOn4CLAL3Lo-IjS8kVHCBqh4nlCJPFzHSg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/M58WkFNWd2c?si=tWjSbL-qwQlmrEz6))
+
+[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://i.ytimg.com/vi/M58WkFNWd2c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhKIF4oZTAP&rs=AOn4CLAL3Lo-IjS8kVHCBqh4nlCJPFzHSg))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=M58WkFNWd2c))
+
+
 
 Begin with basic horror elements: Choose from our selection of base beats and ambient sounds
 Layer your creation: Add character voices, effects, and instrumental elements
