@@ -8,7 +8,7 @@ Play Sprunki Retake game.
 https://sprunkiretake.one
 
 
-[![IMAGE ALT TEXT HERE]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://i.ytimg.com/vi/M58WkFNWd2c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhKIF4oZTAP&rs=AOn4CLAL3Lo-IjS8kVHCBqh4nlCJPFzHSg))]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=M58WkFNWd2c))
+[![SprunkiRetake, Create Your Own Horror Music Experience]([https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://i.ytimg.com/vi/M58WkFNWd2c/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhKIF4oZTAP&rs=AOn4CLAL3Lo-IjS8kVHCBqh4nlCJPFzHSg))]([https://www.youtube.com/watch?v=M58WkFNWd2c](https://www.youtube.com/watch?v=M58WkFNWd2c))
 
 
 
